@@ -1,0 +1,1 @@
+Reference of struct learning : https://www.golangprograms.com/go-language/struct.html
