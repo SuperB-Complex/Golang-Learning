@@ -1,0 +1,1 @@
+Reference: https://stackoverflow.com/questions/44665057/marshal-interface-into-json
