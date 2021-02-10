@@ -14,9 +14,13 @@ func main() {
 	rect1.breadth = 20
 	rect1.color = "Green"
 	fmt.Println(rect1)
+	fmt.Println(*rect1)
+	fmt.Println(&rect1)
  
 	var rect2 = new(rectangle) // rect2 is an instance of rectangle
 	rect2.length = 10
 	rect2.color = "Red"
 	fmt.Println(rect2)
+	fmt.Println(*rect2)
+	fmt.Println(&rect2)
 }
